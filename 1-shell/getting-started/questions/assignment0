@@ -1,0 +1,2 @@
+GPIO27: 设置这三个寄存器 GPFSEL2, GPSET0, GPCLR0
+Pin 13 左边

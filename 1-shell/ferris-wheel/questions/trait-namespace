@@ -1,0 +1,2 @@
+impl MyTrait for MyType {  }
+需要手动use
