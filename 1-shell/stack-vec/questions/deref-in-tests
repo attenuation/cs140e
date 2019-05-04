@@ -1,0 +1,4 @@
+Deref 使用在iter()上
+DerefMut 使用在slice的切片上
+
+`DerefMut' 依赖 `Deref`
