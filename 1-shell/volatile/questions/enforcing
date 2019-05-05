@@ -1,0 +1,1 @@
+根据 Writeable 和 Readable 的函数write 和 read函数实现，包装unsafe
